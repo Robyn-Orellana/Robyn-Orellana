@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Robyn-Orellana
 - 👀 I’m interested in the world of programming
-- 🌱 I’m currently learning Java, C# and MySQL
+- 🌱 I’m currently use Java, C# ,SQL, PHP, python, js and css, and frameworks like to Codeigniter and botstrap
 - Your imagination is the limit!
